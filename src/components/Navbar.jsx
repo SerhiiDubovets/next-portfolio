@@ -3,7 +3,7 @@
 import Link from "next/link";
 import React, { useState } from "react";
 import { FaGithub, FaAt, FaLinkedin, FaFacebook } from "react-icons/fa";
-import NavLink from "./navLink";
+import NavLink from "./NavLink";
 import { motion } from "framer-motion";
 
 const links = [
