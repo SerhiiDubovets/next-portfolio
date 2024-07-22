@@ -59,7 +59,7 @@ const AboutPage = () => {
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
-              "The world is beautiful when we create it ourselves"
+              {"The world is beautiful when we create it ourselves"}
             </span>
             {/* BIOGRAPHY SIGN SVG*/}
             <div className="self-end">
